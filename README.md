@@ -1,7 +1,8 @@
-# AI-Summary-Extension
+🧠 AI Summary Extension
+
 A Chrome extension that uses AI to generate concise, context-aware summaries of web articles and pages in real time.
 
-Features:
+🚀 Features
 
 Instantly summarize any webpage with one click
 
@@ -13,7 +14,7 @@ Option to copy or save generated summaries
 
 Works with popular AI models via API integration
 
-Tech Stack:
+🛠️ Tech Stack
 
 Frontend: HTML, CSS, JavaScript
 
@@ -23,7 +24,7 @@ AI Integration: OpenAI API / Gemini API
 
 Browser Compatibility: Chrome (Manifest V3)
 
-Future Enhancements:
+💡 Future Enhancements
 
 Multi-language support
 
